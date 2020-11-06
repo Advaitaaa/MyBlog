@@ -86,3 +86,15 @@ h1 { font-size: 40px;
 .links;hover{
     background-color:dodgerblue;
 }
+
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color:aqua;
+}
+
+html{
+    scroll-behavior:smooth;
+    
+}
