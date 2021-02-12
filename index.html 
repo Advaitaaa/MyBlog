@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Class 77</title>
+</head>
+<body>
+<h1> Open Console</h1>
+<script>
+console.log("Hi I am console screen");
+
+var firstname ="Advaitaa";
+console.log(firstname);
+var lastname ="Sahu";
+console.log(lastname);
